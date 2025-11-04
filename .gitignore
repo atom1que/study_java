@@ -39,3 +39,7 @@ build/
 
 ### Md files ###
 *.md
+
+### Log files ###
+*.jfr
+*.log
